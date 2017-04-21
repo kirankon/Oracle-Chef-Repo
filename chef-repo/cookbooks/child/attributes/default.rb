@@ -1,0 +1,1 @@
+default['child']['child_attr']='yes'

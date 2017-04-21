@@ -1,0 +1,19 @@
+{
+"id": "kiran",
+	"monitor_config": {
+		"secretKey": "dGhmaUNXbEY4Kzh1eVlQQXY5a29CV01vNHNFYkFJQjM1ek5yNmRobQ==",
+		"accessKey": "QUtJQUlENVhWTDZWQUEyVUMzQVE=dfdfd",
+		"endpoint": "monitoring.us-east-1.amazonaws.com",
+		"namespace": "MyProject ",
+		"datacenter": "AZURE-WEST",
+		"CPUUtilization": "on",
+		"VolumeUtilization": "on",
+		"MemoryUtilization": "on",
+		"ProcessStatus": "on",
+		"volumes": "/",
+		"processes": "chrome.exe;firefox.exe",
+		"timeCycle": "300",
+		"services": "wuauserv;Apache2.2"
+	}
+}
+

@@ -1,0 +1,7 @@
+name             'cb_parent'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures cb_parent'
+long_description 'Installs/Configures cb_parent'
+version          '0.1.0'
